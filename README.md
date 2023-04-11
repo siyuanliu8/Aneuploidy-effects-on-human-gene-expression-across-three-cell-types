@@ -10,5 +10,5 @@ RNA-seq data will be deposited in the Database of Genotypes and Phenotypes (dbGa
 <a id="1">[1]</a> 
 Liu, S., Akula, N., Reardon, P.K., Russ, J., Torres, E., Clasen, L.S., Blumenthal, J., Lalonde, F., McMahon, F.J., Szele, F., Disteche, C.M., Cader, M.Z., Raznahan, A. 
 Aneuploidy effects on human gene expression across three cell types. 
-PNAS (in press).
+PNAS (accepted).
 
